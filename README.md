@@ -17,7 +17,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vedantvisoliya/Weather-App.git
+   git clone https://github.com/vedantvisoliya/weather_app2.git
    cd weather_app
    ```
 2. Install dependencies:
